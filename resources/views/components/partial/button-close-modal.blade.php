@@ -1,0 +1,1 @@
+<button class=" btn btn-secondary" type="button" wire:click.prevent="closeModal()">Tutup</button>
